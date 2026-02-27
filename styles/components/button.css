@@ -25,6 +25,7 @@
   position: relative;
   height: var(--input-height);
   padding-inline: 31px 80px;
+  color: var(--color-light);
   background-color: transparent;
   border: var(--border);
 }
