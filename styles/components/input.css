@@ -18,6 +18,6 @@
 
 .input:focus {
   color: var(--color-dark);
-  background-color: var(--color-light-gray);
+  background-color: var(--color-light);
   outline: none;
 }
