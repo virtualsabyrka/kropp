@@ -91,14 +91,6 @@
   margin-bottom: 52px;
 }
 
-.join-us-form-subtitle {
-  font-size: 20px;
-  line-height: 1.65;
-  text-align: center;
-  text-transform: uppercase;
-  color: var(--color-light);
-}
-
 .join-us-form-body {
   display: flex;
   justify-content: center;
@@ -126,10 +118,6 @@
 
   .join-us-title:not(:last-child) {
     margin-bottom: 40px;
-  }
-
-  .join-us-form-subtitle {
-    font-size: 16px;
   }
 
   .join-us-form-body {
