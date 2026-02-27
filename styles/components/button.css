@@ -19,3 +19,9 @@
   background-color: transparent;
   border-color: var(--color-light);
 }
+
+@media (max-width: 767px) {
+  .button {
+    padding-inline: 18px;
+  }
+}
