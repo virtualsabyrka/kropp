@@ -26,6 +26,10 @@
   color: var(--color-light);
 }
 
+.text-bold {
+  font-weight: 700;
+}
+
 .backdrop-title {
   position: relative;
   z-index: 2;
